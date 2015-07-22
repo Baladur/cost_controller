@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>NoteBox.qml</file>
+        <file>MyButton.qml</file>
+        <file>EnterNote.qml</file>
+        <file>on_parsed.js</file>
+        <file>DayBox.qml</file>
+    </qresource>
+</RCC>
