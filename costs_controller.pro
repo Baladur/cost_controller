@@ -28,5 +28,4 @@ HEADERS += \
     sqlite3.h \
     db.h
 
-DISTFILES += \
-    data.txt
+DISTFILES +=
